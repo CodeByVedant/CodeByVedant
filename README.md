@@ -88,6 +88,5 @@ I'm **Vedant Sawant**, a passionate and curious first-year BSc in Computer Appli
 
 <p align="center">
   <a href="mailto:vedantsawant1128@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <!-- Add more links (Instagram, portfolio) if needed -->
 </p>
